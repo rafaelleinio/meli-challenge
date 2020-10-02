@@ -9,7 +9,7 @@ Build Status:
 
 | Core     | Docker Image 
 | -------- | -------- 
-| Text     | Text    
+| ![Tests](https://github.com/rafaelleinio/meli-challenge/workflows/Tests/badge.svg?branch=main)     | ![Build Docker Image](https://github.com/rafaelleinio/meli-challenge/workflows/Build%20Docker%20Image/badge.svg?branch=main)    
 
 ## The Challenge and Proposed Arch for Solution
 The objective of the challenges is to analyze networks of interaction between the characters in the books of the saga A Song of Ice and Fire, written by George R. R. Martin.

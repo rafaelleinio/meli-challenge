@@ -16,7 +16,7 @@ requirements: requirements-dev requirements-minimum
 ci-install:
 	@pip install --upgrade pip
 	@pip install cmake
-	@python -m pip install -U -r requirements.txt -t ./pip/deps --cache-dir ./pip/cache
+	@python -m pip install -U -r requirements.txt -r requirements.dev.txt -t ./pip/deps --cache-dir ./pip/cache
 
 .PHONY: tests
 ## run unit tests with coverage report
