@@ -1,3 +1,5 @@
+> ⚠️ the external dependency `graphframes:0.8.1-spark2.4-s_2.11` seems to be failing to install, I think the repository was deprecated. A refactoring/fix for the solution is needed for the commands to work properly. When I have the time, I will come back to this, sorry 😅
+
 # Meli Challenge
 _A nice Graph and Spark based solution for the Characters Interactions problem._
 
